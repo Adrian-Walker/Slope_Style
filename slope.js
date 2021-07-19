@@ -41,3 +41,4 @@ function returnFavorites(arr) {
 
 returnFavorites(favoriteActivities)
 returnFavorites(favoriteActivities)
+
