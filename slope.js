@@ -38,7 +38,3 @@ function returnFavorites(arr) {
     var thirdFav = favoriteActivities[3]
     return `My top three favorite activities are, ${firstFav} ,  + ${secondFav} , and " + ${thirdFav}`;
 }
-
-returnFavorites(favoriteActivities)
-returnFavorites(favoriteActivities)
-
