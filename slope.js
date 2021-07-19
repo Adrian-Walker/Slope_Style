@@ -18,7 +18,7 @@ const vacation = {
     duration: "6 months"
 }
 function parseSentence(location, duration) {
-    return "I am headed to ${location} for ${duration}"
+    return `I am headed to ${location} for ${duration}`
 };
 
 //es6
