@@ -63,7 +63,7 @@ console.log(combineAnimals())
 
 
 
-// Make more Es6
+// Make more Es6y
 
 const product = (a, b, c, d, e) => {
     var numbers = [a, b, c, d, e];
